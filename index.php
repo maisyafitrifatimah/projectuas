@@ -31,7 +31,7 @@
 			<div class="carousel-caption">
 			  	<h1>Welcome</h1>
 				<h2>Selamat datang diwebsite kami</h2>
-				<p><a class="btn btn-primary btn-lg" href="login.php" role="button">Masuk</a> 
+				<p><a class="btn btn-success btn-lg" href="login.php" role="button">Masuk</a> 
 			</div>
 		</div><!-- Akhir script Slider ketiga -->
 	</div>
