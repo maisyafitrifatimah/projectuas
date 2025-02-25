@@ -15,7 +15,7 @@
 		<div class="carousel-caption">
 			<h1>Pendaftaran</h1>
 			<h2>Ayo Daftarkan diri anda melalui pendaftaran peserta didik baru melalui online segera!!!</h2>
-			<a class="btn btn-danger btn-lg" href="daftar.php" role="button">Daftar</a></p>
+			<a class="btn btn-success btn-lg" href="daftar.php" role="button">Daftar</a></p>
 		</div>
 	</div>
 		<div class="item">
@@ -23,7 +23,7 @@
 			<div class="carousel-caption">
 				<h1>Sekolah</h1>
 			  	<h2>Info selengkapnya ada disini</h2>
-			  	<p><a class="btn btn-primary btn-lg" href="#" role="button">Selengkapnya</a> 
+			  	<p><a class="btn btn-success btn-lg" href="#" role="button">Selengkapnya</a> 
 		  	</div>
 	  	</div>
 		  	<div class="item">
